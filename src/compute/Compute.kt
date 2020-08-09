@@ -15,7 +15,7 @@ object Compute {
         }
     }
     /*
-    插入排序，时间复杂度
+    插入排序，时间复杂度最好情况 o(N2)，最好情况O(N)
      */
 
     fun insertSort(a: Array<Int>) {
